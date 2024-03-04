@@ -1,5 +1,4 @@
 # Syllabus-ChatBOT-RAG
-## Description
 A ChatBOT that can answer any questions related to the Anna University Regulation - 2017 and Syllabus of the Departments of CSE and AI&DS.
 
 ## Working
