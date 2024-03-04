@@ -1,5 +1,5 @@
 # Syllabus-ChatBOT-RAG
-A ChatBOT that can answer any questions related to the the Anna University Regulation - 2017 and Syllabus of the Departments of CSE and AI&DS.
+A ChatBOT that can answer any questions related to the Anna University Regulation - 2017 and Syllabus of the Departments of CSE and AI&DS.
 
 ## Working
 The App uses a Large Language Model and an Embedding model. This is accomplished using the Retrieval Augmented Generation (RAG) method. The PDF is first converted to vector embeddings where similar details are grouped together and stored in a vector store. This is done using a Embedding Model from HugginFace **thenlper/gte-large** which creates the embeddings through HuggingFace Inference API. 
